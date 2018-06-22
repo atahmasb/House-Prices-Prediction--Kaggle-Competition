@@ -11,7 +11,7 @@ The project is a [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regress
 - Feature engineering
 - Feature selection
 - Expletory data analysis
-- modeling
+- Modeling
 
 ## Instructions
 Clone the project and open the jupytor notebooks. 
